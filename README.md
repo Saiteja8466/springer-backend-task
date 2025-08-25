@@ -109,8 +109,4 @@ Swagger UI available at:
 
 ```
 http://127.0.0.1:8000/docs/
-```
 
----
-
-Cheppava? nenu ee structure directly nenu README.md lo add cheyadaniki ready ga format chesi isthana?
